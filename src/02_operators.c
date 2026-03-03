@@ -27,7 +27,7 @@ int main(void) {
     printf("Enter integer a: ");
     // TODO: scanf a
     printf("Enter integer b: ");
-    // TODO: scanf b
+    // TODO: scanf bFDFFDFDF
 
     printf("\n=== Arithmetic ===\n");
     // TODO: print +, -, *
